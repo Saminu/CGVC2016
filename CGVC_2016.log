@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.6.4)  11 JUN 2016 18:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.6.4)  21 JUN 2016 14:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,7 +374,7 @@ Package epstopdf Info: Source file: <diamondrule.eps>
 to.pdf diamondrule.eps>
 (epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
-<diamondrule-eps-converted-to.pdf, id=98, 213.79875pt x 12.045pt>
+<diamondrule-eps-converted-to.pdf, id=100, 213.79875pt x 12.045pt>
 File: diamondrule-eps-converted-to.pdf Graphic file (type pdf)
 
 <use diamondrule-eps-converted-to.pdf>
@@ -400,137 +400,131 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <8> not available
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./bg.png> <./diamondrule-eps-converted-to.pdf>] <img/obs1.png, id=115, 1395.2
+ <./bg.png> <./diamondrule-eps-converted-to.pdf>] <img/obs1.png, id=133, 1395.2
 125pt x 811.03pt>
 File: img/obs1.png Graphic file (type png)
 
 <use img/obs1.png>
-Package pdftex.def Info: img/obs1.png used on input line 167.
+Package pdftex.def Info: img/obs1.png used on input line 175.
 (pdftex.def)             Requested size: 252.94499pt x 147.03099pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 167--168
+Overfull \hbox (1.626pt too wide) in paragraph at lines 175--176
  [][] 
  []
 
-<img/obs2.png, id=116, 1394.20876pt x 811.03pt>
+<img/obs2.png, id=134, 1394.20876pt x 811.03pt>
 File: img/obs2.png Graphic file (type png)
  <use img/obs2.png>
-Package pdftex.def Info: img/obs2.png used on input line 173.
+Package pdftex.def Info: img/obs2.png used on input line 181.
 (pdftex.def)             Requested size: 252.94499pt x 147.13pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 173--174
+Overfull \hbox (1.626pt too wide) in paragraph at lines 181--182
  [][] 
  []
 
-<img/adrian.pdf, id=117, 1194.86403pt x 844.5954pt>
+<img/adrian.pdf, id=135, 1194.86403pt x 844.5954pt>
 File: img/adrian.pdf Graphic file (type pdf)
  <use img/adrian.pdf>
-Package pdftex.def Info: img/adrian.pdf used on input line 182.
+Package pdftex.def Info: img/adrian.pdf used on input line 190.
 (pdftex.def)             Requested size: 252.94499pt x 178.78789pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 182--183
+Overfull \hbox (1.626pt too wide) in paragraph at lines 190--191
  [][] 
  []
 
-<img/james.pdf, id=118, 1194.86403pt x 844.5954pt>
+<img/james.pdf, id=136, 1194.86403pt x 844.5954pt>
 File: img/james.pdf Graphic file (type pdf)
  <use img/james.pdf>
-Package pdftex.def Info: img/james.pdf used on input line 188.
+Package pdftex.def Info: img/james.pdf used on input line 196.
 (pdftex.def)             Requested size: 252.94499pt x 178.78789pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 188--189
+Overfull \hbox (1.626pt too wide) in paragraph at lines 196--197
  [][] 
  []
 
-<img/kai.pdf, id=119, 844.5954pt x 1194.86403pt>
-File: img/kai.pdf Graphic file (type pdf)
- <use img/kai.pdf>
-Package pdftex.def Info: img/kai.pdf used on input line 194.
-(pdftex.def)             Requested size: 252.94499pt x 357.84209pt.
-
-Overfull \hbox (1.626pt too wide) in paragraph at lines 194--195
- [][] 
- []
-
-<img/mike.pdf, id=120, 1194.86403pt x 844.5954pt>
+<img/mike.pdf, id=137, 1194.86403pt x 844.5954pt>
 File: img/mike.pdf Graphic file (type pdf)
  <use img/mike.pdf>
-Package pdftex.def Info: img/mike.pdf used on input line 200.
+Package pdftex.def Info: img/mike.pdf used on input line 202.
 (pdftex.def)             Requested size: 252.94499pt x 178.78789pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 200--201
+Overfull \hbox (1.626pt too wide) in paragraph at lines 202--203
  [][] 
  []
 
-<img/saminu.pdf, id=121, 844.5954pt x 1194.86403pt>
-File: img/saminu.pdf Graphic file (type pdf)
- <use img/saminu.pdf>
-Package pdftex.def Info: img/saminu.pdf used on input line 206.
-(pdftex.def)             Requested size: 252.94499pt x 357.84209pt.
+[2 <./img/obs1.png> <./img/obs2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 206--207
+ []
+
+[3 <./img/adrian.pdf> <./img/james.pdf> <./img/mike.pdf>]
+<img/transparency.png, id=196, 665.48625pt x 132.495pt>
+File: img/transparency.png Graphic file (type png)
+
+<use img/transparency.png>
+Package pdftex.def Info: img/transparency.png used on input line 280.
+(pdftex.def)             Requested size: 252.94499pt x 50.35872pt.
+
+Overfull \hbox (1.626pt too wide) in paragraph at lines 280--281
  [][] 
  []
 
+<img/histogram.png, id=197, 233.87375pt x 260.975pt>
+File: img/histogram.png Graphic file (type png)
+ <use img/histogram.png>
+Package pdftex.def Info: img/histogram.png used on input line 287.
+(pdftex.def)             Requested size: 72.26999pt x 80.64655pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <./img/obs1.png> <./img/obs2.png>] [3 <./img/adrian.pdf> <./img/james.pdf> <
-./img/kai.pdf, page is rotated 270 degrees>]
-<img/timeset.png, id=174, 2605.735pt x 1258.7025pt>
-File: img/timeset.png Graphic file (type png)
- <use img/timeset.png>
-Package pdftex.def Info: img/timeset.png used on input line 279.
-(pdftex.def)             Requested size: 252.94499pt x 122.17082pt.
+<img/themes.png, id=198, 234.8775pt x 130.4875pt>
+File: img/themes.png Graphic file (type png)
+ <use img/themes.png>
+Package pdftex.def Info: img/themes.png used on input line 294.
+(pdftex.def)             Requested size: 72.26999pt x 40.15004pt.
 
-Overfull \hbox (1.626pt too wide) in paragraph at lines 279--280
- [][] 
- []
+<img/filter.png, id=199, 234.8775pt x 63.23625pt>
+File: img/filter.png Graphic file (type png)
+ <use img/filter.png>
+Package pdftex.def Info: img/filter.png used on input line 301.
+(pdftex.def)             Requested size: 72.26999pt x 19.45732pt.
 
-No file CGVC_2016.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
-[4 <./img/mike.pdf> <./img/saminu.pdf, page is rotated 270 degrees>] [5
+(./CGVC_2016.bbl
+Underfull \vbox (badness 2608) has occurred while \output is active []
 
- <./img/timeset.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
+ [4 <./img/transparency.png> <./img/histogram.png> <./img/themes.png>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+ [5
+
+ <./img/filter.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (./CGVC_2016.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
-
-
-Package rerunfilecheck Warning: File `CGVC_2016.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CGVC_2016.out':
-(rerunfilecheck)             Before: 7A4854824EB0FC95B06C5F014AAAE049;1721
-(rerunfilecheck)             After:  95C053A02378BD3981932F5EC9E1994D;1616.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
+Package rerunfilecheck Info: File `CGVC_2016.out' has not changed.
+(rerunfilecheck)             Checksum: CBFA5E2CB6DAAF26B6D3769B927320F3;1658.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
  ) 
 Here is how much of TeX's memory you used:
- 5567 strings out of 493089
- 83216 string characters out of 6134843
- 175844 words of memory out of 5000000
- 8926 multiletter control sequences out of 15000+600000
- 36734 words of font info for 69 fonts, out of 8000000 for 9000
+ 5606 strings out of 493089
+ 83904 string characters out of 6134843
+ 175500 words of memory out of 5000000
+ 8942 multiletter control sequences out of 15000+600000
+ 37812 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,29p,614b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsubsection.4.0.1} has been referenced but does
- not exist, replaced by a fixed one
-
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on CGVC_2016.pdf (5 pages, 16236684 bytes).
+ 29i,8n,29p,728b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on CGVC_2016.pdf (5 pages, 15536455 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
- 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

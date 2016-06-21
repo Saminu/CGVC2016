@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{pair-analytics}
+R.~Arias-Hern{\'a}ndez, B.~Fisher, and L.~Kaastra.
+\newblock Pair analytics.
+\newblock {\em Social Cognition and Interactive Expertise in Natural and
+  Computational Environments}, 2011.
+
+\bibitem{uncertainty-aware-multidimensional-data}
+H.~Chen, S.~Zhang, W.~Chen, H.~Mei, J.~Zhang, A.~Mercer, R.~Liang, and H.~Qu.
+\newblock Uncertainty-aware multidimensional ensemble data visualization and
+  exploration.
+\newblock {\em IEEE Computer Society}, 21(1077-2626):1072 -- 1086, March 2015.
+
+\bibitem{trust-perception}
+E.~Costante, J.~den Hartog, and M.~Petkovic.
+\newblock On-line trust perception: What really matters.
+\newblock {\em IEEE}, 11:978--1--4577, 2011.
+
+\bibitem{themedelta}
+S.~Gad, W.~Javed, S.~Ghani, N.~Elmqvist, T.~Ewing, K.~N. Hampton, and
+  N.~Ramakrishnan.
+\newblock Themedelta: Dynamic segmentations over temporal topic models.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  21(1077-2626):672 -- 685, January 2015.
+
+\bibitem{uncertainty-graphedges}
+H.~Guo, J.~Huang, and D.~H. Laidlaw.
+\newblock Representing uncertainty in graph edges: An evaluation of paired
+  visual variables.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, Oct.
+  1 2015(1077-2626):1173 -- 1186, Oct 2015.
+
+\bibitem{fuzzy-trust}
+M.~Lesani and N.~Montazeri.
+\newblock Fuzzy trust aggregation and personalized trust inference in virtual
+  social networks.
+\newblock {\em Computational Intelligence}, 25(2), 2009.
+
+\bibitem{visualising-uncertainty}
+A.~M. MacEachren, R.~E. Roth, J.~O'Brien, B.~Li, D.~Swingley, and M.~Gahegan.
+\newblock Visual semiotics and uncertainty visualisation: An empirical study.
+\newblock {\em IEEE}, 2012.
+
+\bibitem{bus-uncertainty}
+K.~Matthew, T.~Kola, J.~R. Hullman, and S.~A. Munson.
+\newblock When (ish) is my bus?: User-centered visualizations of uncertainty in
+  everyday, mobile predictive systems.
+\newblock {\em Proceedings of the 2016 CHI Conference on Human Factors in
+  Computing Systems}, CHI 16(978-1-4503-3362-7):5092--5103, 2016.
+
+\bibitem{timesets}
+P.~H. Nguyen, K.~Xu, R.~Walker, and B.~W. Wong.
+\newblock Timesets: Timeline visualization with set relations.
+\newblock {\em Information Visualization Sage}, 2015.
+
+\bibitem{trust-relationships}
+J.~O'Donovan, B.~Smyth, V.~Evrim, and D.~McLeod.
+\newblock Extracting and visualizing trust relationships from online auction
+  feedback comments.
+\newblock {\em 20th International Joint Conference on Artificial Intelligence},
+  pages 2826--2831, 2007.
+
+\bibitem{recommender-study}
+J.~Schaffer, T.~Hoellerer, and J.~O'Donovan.
+\newblock Hypothetical recommendation: A study of interactive profile
+  manipulation behavior for recommender systems.
+\newblock {\em FLAIRS Conference}, pages 507--512, 2015.
+
+\end{thebibliography}
